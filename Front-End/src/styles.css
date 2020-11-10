@@ -1,0 +1,149 @@
+h1, h3 {
+  text-align: center;
+  color: #FFFFFF;
+  font-weight: bold;
+  text-shadow: 1px 1px 1px #000000;
+}
+
+.words {
+  background: none repeat scroll 0 0 #66A3D2;
+  border-color: #FFFFFF #327CB5 #327CB5 #FFFFFF;
+  border-style: solid;
+  border-width: 1px;
+  box-shadow: 1px 1px 3px #333333;
+  color: #FFFFFF;
+  cursor: pointer;
+  font-weight: bold;
+  padding: 5px;
+  text-align: center;
+  text-shadow: 1px 1px 1px #000000;
+}
+
+.container {
+  padding: 2px 16px;
+}
+
+body {
+  background-color: lightblue;
+}
+
+.typing {
+  text-align: center;
+  width: 40%;
+}
+
+.input_area {
+  background: none repeat scroll 0 0 #66A3D2;
+  border-color: #FFFFFF #327CB5 #327CB5 #FFFFFF;
+  border-style: solid;
+  border-width: 1px;
+  box-shadow: 1px 1px 3px #333333;
+  color: #FFFFFF;
+  cursor: pointer;
+  font-weight: bold;
+  text-align: center;
+  text-shadow: 1px 1px 1px #000000;
+  width: 40%;
+  font-size: 15px;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  color: #FFFFFF;
+  font-weight: bold;
+  text-shadow: 1px 1px 1px #000000;
+}
+
+
+.heading {
+  margin-bottom: 20px;
+  font-size: 3rem;
+  color: white;
+}
+
+.header {
+  display: flex;
+  align-items: center;
+}
+
+.timer, .errors, .accuracy,
+.cpm, .wpm {
+  background: none repeat scroll 0 0 #66A3D2;
+  border-color: #FFFFFF #327CB5 #327CB5 #FFFFFF;
+  border-style: solid;
+  border-width: 1px;
+  height: 40px;
+  width: 100px;
+  margin: 8px;
+  padding: 12px;
+  box-shadow: black 5px 8px 5px;
+}
+
+.cpm, .wpm  {
+  display: none;
+}
+
+.reset-btn {
+  text-align: center;
+  background: none repeat scroll 0 0 #66A3D2;
+  border-color: #FFFFFF #327CB5 #327CB5 #FFFFFF;
+  border-style: solid;
+}
+
+.leader {
+  text-align: center;
+  background: none repeat scroll 0 0 #66A3D2;
+  border-color: #FFFFFF #327CB5 #327CB5 #FFFFFF;
+  border-style: solid;
+}
+
+.highlight {
+ color: lightgreen;
+ text-decoration:underline;
+}
+
+.unhighlight {
+  color: red;
+}
+
+
+#login-create {
+  text-align: center;
+  padding:20px;d be more or less, depending on screen size */
+}
+
+.Leaderboard {
+  display: none;
+  background: none repeat scroll 0 0 #66A3D2;
+  border:1px solid;
+  padding:20px;
+}
+
+.pop-up {
+  display: none; /* Hidden by default */
+  position: fixed; /* Stay in place */
+  z-index: 1; /* Sit on top */
+  left: 0;
+  top: 0;
+  width: 100%; /* Full width */
+  height: 100%; /* Full height */
+  overflow: auto; /* Enable scroll if needed */
+  background-color: rgb(0,0,0); /* Fallback color */
+  background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+}
+
+.results {
+  text-align: center;
+  background: none repeat scroll 0 0 #66A3D2;
+  border:1px solid;
+  padding:20px;d be more or less, depending on screen size */
+}
+
+input, button {
+  color: white;
+  background: none repeat scroll 0 0 #66A3D2;
+  border:1px solid;
+  padding:5px;
+}
