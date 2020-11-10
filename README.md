@@ -1,10 +1,10 @@
 # Typing-Test
 
-A visually pleasing listening environment for Spotify. Search for albums, add to your collection, flip through your virtual shelf, and listen- all in the Playbase app!
+A basic typing test application
 
 ### Inspiration
 
-We wanted to create an alternative music playing app that mimicked the "analog," record playing feel for listening to your favorite albums on Spotify. Flipping through records is a very satisfying, and listening to albums all the way through without skipping tracks was something we aimed to recreate the experience with this application.
+Our goal for this project was to create an interactive "game," for users that would record their input and calculate their accuracy to determine a score, encouraging them to try again for better results.
 
 ### Built With
 
