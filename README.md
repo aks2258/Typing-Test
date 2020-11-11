@@ -2,7 +2,7 @@
 
 A basic typing test application
 
-https://github.com/aks2258/Typing-Test/blob/main/images/type-test.gif
+![Demo Gif](https://github.com/aks2258/Typing-Test/blob/main/images/type-test.gif)
 
 ### Inspiration
 
