@@ -4,6 +4,8 @@ A basic typing test application
 
 ![Demo Gif](https://github.com/aks2258/Typing-Test/blob/main/images/type-test.gif)
 
+[Demo](https://youtu.be/bWwwFUVmusc)
+
 ### Inspiration
 
 Our goal for this project was to create an interactive "game," for users that would record their input and calculate their accuracy to determine a score, encouraging them to try again for better results.
